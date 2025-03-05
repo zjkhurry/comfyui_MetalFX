@@ -1,0 +1,7 @@
+numpy>=1.21.0
+Pillow>=9.0.0
+pyobjc-framework-Metal>=9.0
+pyobjc-framework-MetalFX>=9.0
+pyobjc-framework-Quartz>=9.0
+tqdm>=4.65.0
+torch>=2.0.0
